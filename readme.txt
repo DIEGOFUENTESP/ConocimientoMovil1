@@ -1,0 +1,10 @@
+-¿Cuántas clases tiene el proyecto?R/3
+- ¿En cuál clase se define el programa principalR/zoologico
+- ¿Cuántos objetos de la clase Animal se crean en la clase principal?R/3
+- ¿Cuántos y cuáles son los atributos de la clase Animal?R/3: nombre,genero y peso
+- ¿Cuáles atributos de la clase Animal no son primitivos?R/double
+- ¿Qué pasa si eliminamos la línea 17 de la clase Zoologico?R/Un animal no tiene consigue pareja
+- ¿Cuántos métodos tiene la clase Familia?R/3
+- ¿Cuántos parámetros tiene el método tenerHijo() de la clase Familia?R/1
+- ¿Cuántos atributos inicializa el constructor de la clase Familia?R/2 atributos
+- ¿Qué tipo de retorno tiene el método tenerHijo()?no retorna nada por es vacioa el public
